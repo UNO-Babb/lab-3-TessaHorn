@@ -1,7 +1,7 @@
 #TempConvert.py
-#Name:
-#Date:
-#Assignment:
+#Name: Tessa Horn
+#Date: 09/08/2025
+#Assignment: Temp Convert Lab 3
 
 
 def main():
